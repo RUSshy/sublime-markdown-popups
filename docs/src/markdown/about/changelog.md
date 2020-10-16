@@ -8,6 +8,7 @@
   function, it will be ignored.
 - **NEW**: `allow_code_wrap` can only be set through the frontmatter option `allow_code_wrap`. If passed as a parameter
   for any API function (except `syntax_highlight`), it will be ignored.
+- **NEW**: Requires `coloraide` dependency.
 
 ## 3.7.5
 
